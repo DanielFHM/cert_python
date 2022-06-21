@@ -1,4 +1,4 @@
-#  3.4.1.13 LABORATORIO: Lo básico de las listas - Los Beatles 
+# 3.4.1.13 LABORATORIO: Lo básico de las listas - Los Beatles 
 
 # paso 1:
 Beatles = []
